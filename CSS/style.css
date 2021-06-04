@@ -687,3 +687,31 @@ max-width: 100%;
 .lightbox-target:target a.lightbox-close {
 top: 0px;
 }
+
+/* Pagina Doc */
+
+.sfondo-body{
+  background: linear-gradient(rgba(255,255,255,.9), rgba(255,255,255,.9)), url('sfondo-profumo.jpg') fixed ;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+.main-title-border::after, .main-title-border::before {
+    display: inline-block;
+    margin-top: -7px;
+    vertical-align: middle;
+    content: "";
+    background-color: #d0d0d0;
+    width: 30px;
+    height: 1px;
+}
+
+.doc-prof-size{
+  height: 20px;
+}
+
+.color-blue{
+  color: #171717;
+}
+
