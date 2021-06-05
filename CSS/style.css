@@ -163,7 +163,7 @@ h7{
   margin-left: auto;
   font-size: 3.3rem;
   line-height: 110px;
-  color: #252525;
+  color: #171717;
   text-align: center;
   border: 1px solid;
   border-radius: 50%;
@@ -181,7 +181,7 @@ h7{
 
 .nk-ibox-5 .nk-ibox-text {
   margin-top: 8px;
-  color: #444444;
+  color: #403F3F;
   opacity: .75;
 }
 
@@ -276,7 +276,6 @@ h7{
   font-size: 3.3rem;
   line-height: 50px;
   text-align: center;
-  color: blue;
 }
 
 .nk-ibox-1 .nk-ibox-cont {
@@ -302,7 +301,7 @@ h7{
 }
 
 .grey-color{
-	background-color: #f6f6f6
+	background-color: #f6f6f6;
 }
 
 .nk-box-4, .nk-box-rounded-4 {
@@ -373,7 +372,7 @@ p {
   z-index: 1;
 }
 .text-gray-1 {
-  color: #fafafa !important;
+  color: #D0D0D0 !important;
 }
 
 .nk-footer .nk-footer-cont-md {
@@ -398,6 +397,10 @@ p {
 
 ul {
   list-style: none;
+}
+
+.style-yes {
+  list-style: circle;
 }
 
 .bi-linkedin:hover , .linkedin:hover {
@@ -483,7 +486,7 @@ ul {
 }
 
 .book:hover .text-4 {
-  color: #003cee8a;
+  color: #252850;
   opacity: 1;
   transition: .4s;
   -webkit-transition: .4s;
@@ -499,9 +502,8 @@ ul {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   line-height: 1.0;
-  color: #171717;
   font-size: 0.9rem;
-   color:#35353578;
+   color:#9B9A9A;
 }
 
 .text_didascalia{
@@ -535,7 +537,7 @@ ul {
 }
 
 .nk-social-sitoweb:hover {
-  color: blue;
+  color: #252850;
   opacity: 1;
   transition: .4s;
   -webkit-transition: .4s;
@@ -559,7 +561,7 @@ ul {
 .next, .prev {
     min-width: 190px;
     text-decoration: none;
-    color: #020202 !important;
+    color: #000000 !important;
 }
 
 
