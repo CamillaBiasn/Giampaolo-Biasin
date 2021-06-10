@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: ttps://camillabiasn.github.io/giampaolo-biasin/sitemap.xml
+Sitemap: https://camillabiasn.github.io/giampaolo-biasin/sitemap.xml
